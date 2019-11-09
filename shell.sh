@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 ##############
 #Test for scripting 
 #shell scripting
