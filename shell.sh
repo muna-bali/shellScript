@@ -9,5 +9,5 @@
  git clone https://github.com/muna-bali/javatest.git
  cd javatest/src
  ls
- javac /javatest/src/*.java
+ javac *.java
  java BSTtest
